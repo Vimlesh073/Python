@@ -1,0 +1,14 @@
+Topic to be covered:
+--------------------------
+list/array
+touple
+dictionary
+break
+continue
+Slicer
+Function
+String Handling
+Modules
+----------------------
+
+
