@@ -1,0 +1,55 @@
+I/O: input output
+----------------------
+input: 
+	- from console/command line
+	- from file system
+		- open source file (.txt,.dat,.csv,xml,json etc.)
+		- from application(.xls,.xlsx,ms access etc.)
+
+	- RDBMS 
+		-ms sql server
+		-mys sql server
+		-oracle
+		-ibm db2
+		etc.
+
+	-from web 
+
+
+****************************
+method/function :
+------------------
+-open(path,mode of file)
+-read()		: read all lines 
+-readline()	: read first line
+-readlines()	: read all lines and convert/retun in list
+-write()	: write to file 
+-close()	: close the instance 
+
+
+-mode:
+	r	: read 	
+	w	: write
+	a+	: append
+	r+	: read and write 
+
+--------------------------------------------
+id,name,gender,salary,country
+1,raman,male,3333,india
+2,monika,female,3333,india
+3,raman,male,3333,india
+
+
+
+
+male count: 
+female count:
+total  of sal:
+
+
+
+
+
+
+
+
