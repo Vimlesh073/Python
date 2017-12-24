@@ -1,0 +1,92 @@
+Modules:
+-numpy		: calc
+-pandas 	: data frame	
+-spicy		: model 
+-matplot...   : visualization 
+
+
+STATSITCS  & ANALYTICS & MACHINE LEARNING * MODEL(DATA/BUSSINES)
+----------------------------------------------------------------
+STAT	: MATH/NUM. CALCULATION OF NUMERIC DATA/VALUES
+--------
+-MAX()		: highest number/largest value
+-MIN()		: lowest number / lowest value 
+-SUM()		: total 
+-AVG()/MEAN()   : total/no. of instance/rows
+-COUNT()	: count of items/rows/values	
+-FREQ()		: count by column 
+		  male   - 10
+		  female - 4
+
+-RANGE()	: max/largest/highest - min value 
+		1 
+		5
+		10
+		7				
+		=10-1  =  9 
+
+-VARIENCE()	:
+			
+-STD. DEVIATION 
+		:
+		https://en.wikipedia.org/wiki/Standard_deviation
+
+-MEDIAN		:   mid value
+		1
+		2
+		3
+		4
+		100
+		20
+		
+
+		(3+4)/2
+		
+-MODE		:
+		count of seriers 
+-P VALUE	: probability 
+		: .05  
+
+-QUANTILE()	:	
+-PERCENTILE()	:
+
+******** 				
+-R SQUARE 
+
+ANALYTICS
+----------
+-DESCRIBE()
+-GROUP()
+-MATRIX
+-TABULATE
+-CROSS TABLE 
+
+
+MACHINE LEARNING (CALC & VISULIZATION): MODEL 
+--------------------------------------
+-Regression model 
+	: linear regression
+	: multiple regression /logistics
+-freq   : 
+-means  :
+-Co-relation: 
+-anova    : 
+		- one way
+		- two way
+-GLM 	: general regression  model
+-T-Test 
+-Tree
+-Hypothesis testing
+-Trend Analysis
+-Forecast
+
+etc.
+
+
+
+
+
+
+
+
+
