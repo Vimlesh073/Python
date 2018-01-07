@@ -1,0 +1,47 @@
+self
+Inheritence: to extend one class featues to another class 
+--------------------
+There are following types of inheritence :
+
+i. single level 		: A -> B
+ii. multiple level  inheritence : A -> B -> C -> D ....
+iii. tree inheritence		: A -> B, C,D -> M, N
+iv. hybrid inheritence		: A -> B,C ,   M -> X->Y->Z
+v. multiple  inheritence	: A, B, C .. -> M 	
+
+Polymorphisam
+-------------------------------
+Poly		: many 
+Morphisam	: forms
+
+-multiple function have same name i.e. known as polymorphisam 
+
+There are following types of polymorphisam:
+i. overloading - python doen't support overloading 
+ii. overriding - pyton does support overriding 
+
+Regular Expression**** or known as regix 
+-----------------------------
+re is moulde for regular expression 
+
+
+
+Next
+----------
+CGI
+GUI
+Databasess Access
+
+Next
+-------
+Networking
+Thread
+
+Next
+--------
+web crawler
+Machine Learning
+
+
+
+
